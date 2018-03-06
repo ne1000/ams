@@ -26,22 +26,19 @@ profile设置菜单包括退出和修改密码
 1.应用列表页
 ![apppage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%879.png)
 
-2.集群发布页
+2.集群发布
 ![clusterpage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8710.png)
 
-3.集群回退页
+3.集群回退
 ![clusterrollbackpage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8711.png)
 
-4.上线列表页
-![onlinelistpage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8712.png)
-
-5.待发布
+4.待发布
 ![waitrelease](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8713.png)
 
-6.已发布
+5.已发布
 ![released](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8714.png)
 
-7.上线单页
+6.上线单页
 ![onlinepage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8715.png)
 
 五.部署菜单
