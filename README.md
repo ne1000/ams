@@ -9,21 +9,23 @@ profile设置菜单包括退出和修改密码
 ![profile](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%873.png)
 
 三.列表菜单
-1.资源管理页，包括主机组、发布环境、机房的增删查改
+1.主机组的增删查改
 ![hostgroup](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%874.png)
 
+机房的增删查改
 ![idc](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%875.png)
 
+发布环境的增删查改
 ![env](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%876.png)
 
-2.主机列表页
+2.主机列表页，主机的增删查改以及主机免密码认证、初始化
 ![hostlist](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%877.png)
 
-3.批量认证页
+3.批量认证页，多台主机的免密码认证
 ![batchauth](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%878.png)
 
 四.发布管理菜单
-1.应用列表页
+1.应用列表页，单应用的发布、回退、重启、启动、停止等
 ![apppage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%879.png)
 
 2.集群发布
@@ -38,14 +40,14 @@ profile设置菜单包括退出和修改密码
 5.已发布
 ![released](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8714.png)
 
-6.上线单页
+6.上线单页，开发提交上线应用
 ![onlinepage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8715.png)
 
 五.部署菜单
-1.部署列表
+1.部署列表，部署的应用列表都在这里，比如nginx, apache, tomcat, mysql, hadoop等，都需要写单独的ansible playbook
 ![installlist](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8716.png)
 
-2.tomcat部署详情页
+2.tomcat部署详情页, 允许一台主机上部署多个tomcat实例
 ![tomcat](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8717.png)
 
 六.系统管理菜单
