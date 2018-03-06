@@ -34,13 +34,13 @@ profile设置菜单包括退出和修改密码
 3.集群回退
 ![clusterrollbackpage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8711.png)
 
-4.待发布
+4.待发布, 列出等待发布的应用或sql
 ![waitrelease](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8713.png)
 
-5.已发布
+5.已发布，列出发布的应用或sql
 ![released](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8714.png)
 
-6.上线单页，开发提交上线应用
+6.上线单页，开发提交上线应用和sql语句
 ![onlinepage](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%8715.png)
 
 五.部署菜单
