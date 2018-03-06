@@ -1,3 +1,10 @@
+运维自动化平台的开发
+目前实现功能：
+1. 主机的增删查改，免密码认证等
+2. 应用发布的增删查改和tomcat应用的发布/回退/重启/停止/启动等
+3. nginx/apache/jdk/tomcat/php-fpm/mysql/memcached/keepalived/maven/zabbix等的部署
+4. 上线单的提交和显示
+
 一.登陆界面
 ![登录界面](https://github.com/ne1000/ams/blob/master/%E5%9B%BE%E7%89%871.png)
 
